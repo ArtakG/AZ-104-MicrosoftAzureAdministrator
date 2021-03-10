@@ -201,7 +201,7 @@ In this task you will scale compute for Azure virtual machines by changing their
    New-Partition -DiskNumber 4 -UseMaximumSize -DriveLetter Z
    ```
 
-1. Make screenshot of output and upload to your **GitHub Account**.
+1. Take screenshot of output and upload to your **GitHub Account**.
 
 #### Task 4: Register the Microsoft.Insights and Microsoft.AlertsManagement resource providers
 
@@ -363,6 +363,7 @@ In this task, you will install Windows Server Web Server role on the instances o
 1. On the **az10408vmss0-lb** blade, note the value of the **Public IP address** assigned to the frontend of the load balancer, open an new browser tab, and navigate to that IP address.
 
     >**Note**: Verify that the browser page displays the name of one of the instances of the Azure virtual machine scale set **az10408vmss0**.
+1. Take screenshot of output and upload to your **GitHub Account**.
 
 #### Task 7: Scale compute and storage for Azure virtual machine scale sets
 
