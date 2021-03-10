@@ -203,7 +203,6 @@ In this task you will scale compute for Azure virtual machines by changing their
 
 1. Make screenshot of output and upload to your **GitHub Account**.
 
-    > **Note**: Wait for the confirmation that the commands completed successfully.
 
 1. In the Azure portal, search for and select **Virtual machines** and, on the **Virtual machines** blade, click **az104-08-vm1**.
 
