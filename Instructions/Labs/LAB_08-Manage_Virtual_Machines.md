@@ -155,12 +155,6 @@ In this task, you will install Windows Server Web Server role on the two Azure v
 
 1. Back on the **Install extension** blade, click **OK**.
 
-1. In the Azure portal, search for and select **Virtual machines** and, on the **Virtual machines** blade, click **az104-08-vm1**.
-
-1. On the **az104-08-vm1** blade, in the **Automation** section, click **Export template**.
-
-1. On the **az104-08-vm1 - Export template** blade, click **Deploy**.
-
 #### Task 3: Scale compute and storage for Azure virtual machines
 
 In this task you will scale compute for Azure virtual machines by changing their size and scale their storage by attaching and configuring their data disks.
@@ -206,6 +200,8 @@ In this task you will scale compute for Azure virtual machines by changing their
 
    New-Partition -DiskNumber 4 -UseMaximumSize -DriveLetter Z
    ```
+
+1. Make screenshot of output and upload to your **GitHub Account**.
 
     > **Note**: Wait for the confirmation that the commands completed successfully.
 
