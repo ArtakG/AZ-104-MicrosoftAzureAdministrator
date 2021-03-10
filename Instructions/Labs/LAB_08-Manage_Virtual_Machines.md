@@ -112,6 +112,7 @@ In this task, you will deploy Azure virtual machines into different availability
     | Public IP Address Name | **az104-08-vm1-ip** |
     | Virtual Machine Name | **az104-08-vm1** |
     | Virtual Machine Computer Name | **az104-08-vm1** |
+    | Enable Hotpatching | **No** |
     | Admin Username | **Student** |
     | Admin Password | **Pa55w.rd1234** |
     | Zone | **2** |
